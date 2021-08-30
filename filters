@@ -33,17 +33,20 @@
 |https://studio.youtube.com/youtubei/v1/log_event?
 ||https://youtube.com/api/stats/ads
 ||https://youtube.com/error_204
-|https://www.youtube.com/pagead/adview?ai=
+|https://www.youtube.com/pagead/
 |https://www.youtube.com/ptracking?
 |https://i.ytimg.com/generate_204
 |https://static.doubleclick.net/instream/ad_status.js
-|https://googleads.g.doubleclick.net/pagead/id
-|https://pagead2.googlesyndication.com/$r@https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js@https://github.com/houzi-/CDN/raw/master/AD/googlesyndication_adsbygoogle.js
+|https://ad.doubleclick.net/ddm/trackimp
+|https://googleads.g.doubleclick.net/pagead
+|https://pagead2.googlesyndication.com/
 |https://tpc.googlesyndication.com/daca_images/simgad/
 |https://tpc.googlesyndication.com/sadbundle/
 ||https://gvt2.com
 |https://adservice.google.de/adsid/google/ui
 |https://www.google.com/pagead/
+|https://www.google.com.sg/pagead/
+|https://www.google.com.hk/pagead/
 ||https://googletagmanager.com/gtag/$third-party
 |https://tpc.googlesyndication.com/simgad/*
 ||https://googlevideo.com/videogoodput?
@@ -138,3 +141,5 @@
 ||https://tynt.com
 ||https://ettoday.net/dfp/dfp-
 ||https://chinaz.com/##.wrapper02 ToolsWrapIM clearfix
+|https://www.google.com.sg/pagead/lvz?
+|https://github.githubassets.com/assets/optimizely-
