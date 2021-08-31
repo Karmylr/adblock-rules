@@ -43,7 +43,6 @@
 |https://tpc.googlesyndication.com/daca_images/simgad/
 |https://tpc.googlesyndication.com/sadbundle/
 ||https://gvt2.com
-|https://adservice.google.de/adsid/google/ui
 |https://www.google.com/pagead/
 |https://www.google.com.sg/pagead/
 |https://www.google.com.hk/pagead/
@@ -142,3 +141,14 @@
 ||https://chinaz.com/##.wrapper02 ToolsWrapIM clearfix
 |https://www.google.com.sg/pagead/lvz?
 |https://github.githubassets.com/assets/optimizely-
+|https://adservice.google.com/adsid/google/ui
+|https://adservice.google.de/adsid/google/ui
+|https://adservice.google.cn/adsid/google/ui
+|https://adservice.google.com.hk/adsid/google/ui
+|https://www.google-analytics.com/analytics.js
+||https://googleads.g.doubleclick.net/$r@|https://googleads.g.doubleclick.net/pagead/id@https://github.com/houzi-/CDN/raw/master/AD/noop.txt
+|https://www.google.co.jp/pagead/lvz?
+|https://www.google.de/log?format=
+|https://www.google.cn/log?format=
+|https://www.google.com.hk/log?format=
+|https://www.google.com/log?format=
