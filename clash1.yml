@@ -20,4 +20,4 @@ proxy-groups:
       - Debug
       - "1"
 rules:
-  - MATCH,DIRECT
+  - MATCH,1
