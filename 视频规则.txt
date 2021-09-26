@@ -9,6 +9,7 @@
 |http://aliyuncdncnc.inter.ptqy.gitv.tv/videos/
 !腾讯视频电视客户端
 |http://*.*.*.*/vmindhls.tc.qq.com
+!----------------------------------------------------------------
 !优酷视频手机客户端
 |http://vali-g1.cp31.ott.cibntv.net/youku/
 !爱奇艺视频手机客户端
@@ -30,7 +31,7 @@
 |http://pcvideoaliyun.titan.mgtv.com/c1/*/*/*/
 !屏蔽抖音的视频(目前效果展示：https://youtu.be/mJTa1TSpxtM)
 ||http://douyinvod.com/$r@http://*.douyinvod.com/*/*/video/tos/cn/tos-cn-*-*/*@https://raw.githubusercontent.com/houzi-/CDN/master/AD/noop-1s.mp4@
-||http://douyincdn.com/$r@http://douyincdn.com/stage/stream-*.flv?*
+||http://douyincdn.com/$r@http://*.douyincdn.com/stage/stream-*.flv?*@https://raw.githubusercontent.com/Karmylr/public-cdn/main/2021-09-26%2008-26-07.flv@
 !屏蔽今日头条的视频(目前效果展示：https://youtu.be/mJTa1TSpxtM)
 ||http://toutiaovod.com/$r@http://*.toutiaovod.com/*/*/video/tos/cn/tos-cn-*-*/*@https://raw.githubusercontent.com/houzi-/CDN/master/AD/noop-1s.mp4@
 !网速管家(目前效果展示：https://youtu.be/HH_8Vwzomas)
