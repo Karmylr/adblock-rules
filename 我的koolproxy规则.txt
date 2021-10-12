@@ -1,5 +1,7 @@
 !text
 !爱奇艺视频电视客户端
+|http://msg.ptqy.gitv.tv
+|http://msga.ptqy.gitv.tv
 |http://aliyuncdncnc.inter.ptqy.gitv.tv/$r@http://aliyuncdncnc.inter.ptqy.gitv.tv/videos/ots/*/*/*/*.ts?*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop-1s.ts@
 |http://tcqcloudcdncnc.inter.ptqy.gitv.tv/$r@http://tcqcloudcdncnc.inter.ptqy.gitv.tv/videos/ots/*/*/*/*.ts?*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop-1s.ts@
 |http://baiducdncnc.inter.ptqy.gitv.tv/$r@http://baiducdncnc.inter.ptqy.gitv.tv/videos/ots/*/*/*/*.ts?*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop-1s.ts@
@@ -8,10 +10,8 @@
 ||http://myalicdn.com/$r@http://ykugc.cp31.ott.cibntv.net.qn302.myalicdn.com/*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/5.0-/noop-1s.mp4@
 ||http://*/$r@http://*/*/*-*-*-*-*.mp4.ts?sid=*&sign=*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/5.0-/noop-1s.mp4@
 !腾讯视频电视客户端
-@@||http://exchang.qnssl.com/
 |http://*/$r@http://*/vmindhls.tc.qq.com/*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/5.0-/noop-1s.mp4@
-|http://*/$r@http://*/defaultts.tc.qq.com/*-*-*/*-*-*-*-*-*/*.*.ts?*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/5.0-/noop-1s.mp4@
-|http://*/$r@http://*/defaultts.tc.qq.com/*-*-*-*/*-*-*-*-*/*.*.ts?*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/5.0-/noop-1s.mp4@
+|http://*/$r@http://*/defaultts.tc.qq.com/*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/5.0-/noop-1s.mp4@
 !腾讯视频手机客户端
 |http://*/$r@http://*/vmind.qqvideo.tc.qq.com/*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/5.0-/noop-1s.mp4@
 |http://*/$r@http://*/variety.tc.qq.com/*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/5.0-/noop-1s.mp4@
@@ -39,6 +39,10 @@
 !百度贴吧手机客户端
 |http://nadvideo2.baidu.com/$r@http://nadvideo2.baidu.com/*.mp4@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/5.0-/noop-1s.mp4@
 !爱奇艺视频手机客户端
+|http://msg.iqiyi.com
+||http://iqiyi.com/$r@http://kjp.cupid.iqiyi.com/mixer?*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/5.0-/noop.txt@
+||http://iqiyi.com/$r@http://t7z.cupid.iqiyi.com/mixer?*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/5.0-/noop.txt@
+||http://iqiyi.com/$r@http://data.video.iqiyi.com/videos/other/*/*/*/*.mp4?pv=*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/5.0-/noop.txt@
 |http://tcqcloudcdncnc.inter.iqiyi.com/$r@http://tcqcloudcdncnc.inter.iqiyi.com/videos/other/*/*/*/*.f4v?*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop-1s.f4v@
 |http://*/baiducdncnc.inter.iqiyi.com/$r@http://*/baiducdncnc.inter.iqiyi.com/videos/other/*/*/*/*.f4v?*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop-1s.f4v@
 ||http://iqiyi.com/baiducdncnc.inter.iqiyi.com/$r@http://static-d.iqiyi.com/lequ/*.mp4@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/5.0-/noop-1s.mp4@
