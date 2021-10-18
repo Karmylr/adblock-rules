@@ -8,3 +8,4 @@
 ||trace.qq.com^
 ||log.tbs.qq.com^
 ||gvt2.com^
+||mmstat.com^
