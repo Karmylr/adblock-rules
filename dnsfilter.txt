@@ -4,7 +4,6 @@
 ||adx.ads.heytapmobi.com^
 ||aeventlog.beacon.qq.com^
 ||amdc.m.taobao.com^
-||amdcopen.m.taobao.com^
 ||android.bugly.qq.com^
 ||android.rqd.qq.com^
 ||applog.uc.cn^
@@ -14,6 +13,11 @@
 ||av1.xdrig.com^
 ||bdsp.x.jd.com^
 ||beacon.qq.com^
+||beacons.gvt2.com^
+||beacons2.gvt2.com^
+||beacons3.gvt2.com^
+||beacons4.gvt2.com^
+||beacons5.gvt2.com^
 ||btrace.play.aiseet.atianqi.com^
 ||btrace.qq.com^
 ||btrace.video.qq.com^
@@ -25,18 +29,14 @@
 ||device-metrics-us.amazon.com^
 ||dig.bdurl.net^
 ||dm.toutiao.com^
-||firebase-settings.crashlytics.com^
 ||googleads.g.doubleclick.net^
 ||gvt2.com^
 ||h-adashx.ut.taobao.com^
-||id6.me
 ||ipv4.gdt.qq.com^
-||irs03.com^
 ||kp rule^
 ||line1-log.biligame.net^
 ||lives.l.aiseet.atianqi.com^
 ||log.tbs.qq.com^
-||logs.amap.com
 ||logs.amap.com^
 ||mbsts.cp12.ott.cibntv.net^
 ||mcs.snssdk.com^
@@ -48,7 +48,6 @@
 ||mon.snssdk.com^
 ||msg.ptqy.gitv.tv^
 ||msg.qy.net^
-||msg.umengcloud.com^
 ||mtrace.play.aiseet.atianqi.com^
 ||mtrace.qq.com^
 ||oth.eve.mdt.qq.com^
@@ -73,3 +72,10 @@
 ||wa.gtimg.com^
 ||www.google-analytics.com^
 ||xsweb.gdt.qq.com^
+||logs.amap.com
+||id6.me
+||amdcopen.m.taobao.com^
+||firebase-settings.crashlytics.com^
+||mobile.da.mgtv.com^
+||msg.umengcloud.com^
+||irs03.com^
