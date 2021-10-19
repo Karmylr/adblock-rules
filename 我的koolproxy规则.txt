@@ -2,6 +2,7 @@
 |http://vv.video.qq.com/getvmind?
 |http://livep.l.qq.com/livemsg?
 @@|http://ltsbsy.qq.com
+||http://qq.com/$r@http://ltsydzd.qq.com/*/*-*-*-*-*-*/*.*.1.ts?*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop-1s.ts@
 ||http://qq.com/$r@http://ltsws.qq.com/*/*-*-*/*.*.ts?*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop-1s.ts@
 ||http://qq.com/$r@http://ltsws.qq.com/*/*-*-*/*.*.1.ts?*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop-1s.ts@
 |http://*/$r@http://*/vmind.qqvideo.tc.qq.com/*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop.txt@
