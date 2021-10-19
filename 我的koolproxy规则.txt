@@ -20,7 +20,7 @@
 ||http://mgtv.com/$r@http://pcvideoaliyun.titan.mgtv.com/*/*/*.m4s?*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/5.0-/noop-1s.mp4@
 !优酷视频手机客户端
 @@|http://ipm.atm.youku.com/ipm?
-||http://cibntv.net/$r@http://vali-g1.cp31.ott.cibntv.net/youku/@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop.txt@
+||http://cibntv.net/$r@http://vali-g1.cp31.ott.cibntv.net/youku/*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop.txt@
 @@|http://acs.m.taobao.com/
 ||http://myalicdn.com/$r@http://vali.cp31.ott.cibntv.net.qn302.myalicdn.com/youku/*/*-*-*-*-*.mp4?*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop.txt@
 ||http://cibntv.net/$r@http://vali-g1.cp31.ott.cibntv.net/youku/*/*-*-*-*-*.mp4?*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop.txt@
