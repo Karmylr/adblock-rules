@@ -21,7 +21,10 @@
 ||http://mgtv.com/$r@http://pcvideoaliyun.titan.mgtv.com/c1/*/*/*/*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop-1s.mp4@
 ||http://mgtv.com/$r@http://pcvideoaliyun.titan.mgtv.com/*/*/*.m4s?*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop-1s.mp4@
 !优酷视频手机客户端
-|http://vali.cp31.ott.cibntv.net/youku/
+|http://*/$r@http://*/*/*-*-*-*-*.mp4?ccode=*&duration=*&expire=*&psid=*&ups_client_netip=*&ups_ts=*&ups_userid=*&utid=*&vid=*&vkey=*&eo=*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop-1s.mp4@
+|http://*/$r@http://*/youku/*/*-*-*-*-*.mp4?sid=*&sign=*&ctype=*&ali_redirect_domain=vali.cp31.ott.cibntv.net&ali_redirect_ex_ftag=*&ali_redirect_ex_tmining_ts=*&ali_redirect_ex_tmining_expire=*&ali_redirect_ex_hot=*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop-1s.mp4@
+||http://myalicdn.com/$r@http://vali.cp31.ott.cibntv.net.qn302.myalicdn.com/youku/*/*-*-*-*-*.mp4?sid=*&sign=*&ctype=*&ali_redirect_domain=vali.cp31.ott.cibntv.net&ali_redirect_ex_ftag=*&ali_redirect_ex_tmining_ts=*&ali_redirect_ex_tmining_expire=*&ali_redirect_ex_hot=*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop-1s.mp4@
+||http://cibntv.net/$r@http://vali.cp31.ott.cibntv.net/youku/*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop.txt@
 @@|http://ipm.atm.youku.com/ipm?
 ||http://cibntv.net/$r@http://vali-g1.cp31.ott.cibntv.net/youku/*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop.txt@
 @@|http://acs.m.taobao.com/
@@ -133,6 +136,7 @@
 |https://www.right.com.cn/forum/static/image/common/logo3.gif
 |https://www.right.com.cn/forum/static/image/common/logo4.gif
 |https://www.right.com.cn/forum/static/image/common/logo5.gif
+|https://www.right.com.cn/forum/static/image/common/logo6.gif
 |https://www.right.com.cn/logo/hsk-5.gif
 |https://www.right.com.cn/logo/pgy-g.gif
 |https://www.right.com.cn/logo/pgy911.gif
@@ -260,6 +264,9 @@ https://stats.g.doubleclick.net/dc.js
 |https://rum.h5.weibo.cn/intake/v2/rum/events
 |https://sbeacon.sina.com.cn/a.gif?
 ||https://app.link/_r?
+||https://edge4k.com/in/adop
+||https://yahoo.com/bidRequest?
+|https://www.googleapis.com/affiliation/
 !
 !重定向
 ||https://doubleclick.net/$r@https://static.doubleclick.net/instream/ad_status.js@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/5.0-/noop.txt@
@@ -280,12 +287,8 @@ https://stats.g.doubleclick.net/dc.js
 |https://www.bilibili.com##a[href*="cm.bilibili.com"][data-target-url]:not([data-target-url*=".bili"])
 |https://www.bilibili.com$s@</head>@<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/kp/hide_mini.js"></script><script>fuckcss('.ex-card-common:has(.gg-icon) { remove: true; }')</script>@
 |https://www.right.com.cn/forum##img[src="https://www.right.com.cn/logo/zbz-1.gif"],#threadlisttableid > tbody:nth-child(10)
-|https://www.baidu.com/s?$s@<div id="????_im0"*</a></div>@@
-|https://www.baidu.com/s?$s@id="m??????????_canvas"@id="Fuck Ad" style="display:none"@
-|https://www.baidu.com/s?$s@id="m????????"@id="Fuck Ad" style="display:none"@
 |https://www.baidu.com/s?$s@id="ecomScript">*</script>@id="Fuck Ad"></script>@
 |https://www.baidu.com/s?$s@id="?00?"@id="Fuck Ad" style="display:none"@
-|https://www.baidu.com/$s@class="ec_r_????????????????"@id="ec_r_????????????????" style="display:none"@
 |https://www.baidu.com/$s@</head>@<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/kp/hide.js"></script><script>fuckcss('#header > div:nth-child(7):not([id])')</script>@
 ||https://youtube.com##.watch-sidebar-body > #watch-related > .related-list-item > .related-video
 ||https://youtube.com##.watch-sidebar-body > #watch-related > .related-list-item
