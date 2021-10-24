@@ -127,6 +127,7 @@
 ||https://adservice.google.com/
 ||https://google.com/gen_204?
 ||https://google.com/play/log?
+||https://google.cn/pagead/lvz?
 |http://connectivitycheck.gstatic.com/generate_204$image
 |https://zhanzhang.toutiao.com/s.gif?
 |https://www.right.com.cn/forum/static/image/common/logo-2.gif
@@ -279,7 +280,7 @@
 ||https://scorecardresearch.com/$r@https://scorecardresearch.com/beacon.js@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/5.0-/scorecardresearch_beacon.js@
 ||https://google-analytics.com/$r@https://google-analytics.com/ga.js@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/google-analytics_ga.js@
 ||https://scorecardresearch.com/$r@https://sb.scorecardresearch.com/beacon.js@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/5.0-/scorecardresearch_beacon.js@
-||https://google.com/$r@https://play.google.com/log?*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/5.0-/noop.txt@
+||https://google.com/$r@https://play.google.com/log?format=*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/5.0-/noop.txt@
 !
 !修饰规则
 ||https://speedtest.net##.top-placeholder
