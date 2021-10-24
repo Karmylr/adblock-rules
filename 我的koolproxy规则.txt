@@ -227,7 +227,7 @@
 ||https://baidu.com/*/mwb2.gif?
 ||https://4399.com/jss/indexcoup.js
 ||https://cdn.onesignal.com
-https://stats.g.doubleclick.net/dc.js
+|https://stats.g.doubleclick.net/dc.js
 ||https://ads-pixiv.net^$third-party
 ||https://pixiv.net/cdn-cgi/bm/cv/
 ||pixiv.org^$third-party
