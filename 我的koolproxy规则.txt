@@ -34,7 +34,6 @@
 |http://*/$r@http://*/youku/*/*-*-*-*-*.mp4?sid=*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop.txt@
 |https://video-ad.sm.cn/$r@https://video-ad.sm.cn/*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop.txt@
 !爱奇艺视频手机客户端
-||http://iqiyi.com/$r@http://*.cupid.iqiyi.com/*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop.txt@
 ||http://iqiyi.com/baiducdncnc.inter.iqiyi.com/$r@http://iqiyi.com/baiducdncnc.inter.iqiyi.com/*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop-1s.mp4@
 ||http://iqiyi.com/$r@http://static-d.iqiyi.com/lequ/*.mp4@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop-1s.mp4@
 ||http://iqiyi.com/$r@http://baiducdncnc.inter.iqiyi.com/videos/other/*.mp4?*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop-1s.mp4@
@@ -62,7 +61,6 @@
 ||http://gitv.tv/$r@http://*/baiducdncnc.inter.ptqy.gitv.tv/videos/ots/*/*/*/*.ts?*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop-1s.ts@
 |http://pic*.ptqy.gitv.tv/image/*/*/*/*.jpg
 |http://pb.bi.gitv.tv
-||http://gitv.tv/$r@http://*.cupid.ptqy.gitv.tv/*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop.txt@
 !优酷视频电视客户端
 |http://yk-ssp-ad.cp31.ott.cibntv.net/
 @@|http://adash.m.taobao.com/rest/sur?ak=
@@ -80,6 +78,10 @@
 ||http://msg.video.qiyi.com$image
 |http://btrace.qq.com/kvcollect
 |http://connectivitycheck.gstatic.com/generate_204$image
+|http://msg.qy.net/
+||http://iqiyi.com/$r@http://*.cupid.iqiyi.com/*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop.txt@
+|http://msg.ptqy.gitv.tv/
+||http://gitv.tv/$r@http://*.cupid.ptqy.gitv.tv/*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop.txt@
 !网页
 |https://a2put.chinaz.com
 |https://ade.googlesyndication.com/ddm/activity_ext/
