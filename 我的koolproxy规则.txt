@@ -20,7 +20,7 @@
 ||http://iqiyi.com/baiducdncnc.inter.iqiyi.com/$r@http://iqiyi.com/baiducdncnc.inter.iqiyi.com/*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop-1s.mp4@
 ||http://iqiyi.com/$r@http://static-d.iqiyi.com/lequ/*.mp4@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop-1s.mp4@
 ||http://iqiyi.com/$r@http://baiducdncnc.inter.iqiyi.com/videos/other/*.mp4?*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop-1s.mp4@
-|http://*/baiducdncnc.inter.iqiyi.com/$r@http://*/baiducdncnc.inter.iqiyi.com/videos/other/*.mp4?*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop-1s.mp4@
+|http://*/baiducdncnc.inter.iqiyi.com/$r@http://*/baiducdncnc.inter.iqiyi.com/videos/other/*/*/*/*.mp4?dis_dz=CNC-*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop-1s.mp4@
 |http://*/baiducdncnc.inter.iqiyi.com/$r@http://*/baiducdncnc.inter.iqiyi.com/videos/other/*/*/*/*.f4v?*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop-1s.f4v@
 ||http://iqiyi.com/$r@http://aliyuncdncnc.inter.iqiyi.com/videos/other/*.mp4?*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop-1s.mp4@
 |http://*/$r@http://*/videos/other/*/*/*/*.mp4?dis_k=*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop-1s.mp4@
