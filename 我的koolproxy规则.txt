@@ -18,14 +18,14 @@
 |http://*/*/*-*-*-*-*.mp4.ts?sid=*&sign=*
 !爱奇艺视频手机客户端
 |http://msga.cupid.iqiyi.com/scp2.gif
-||http://iqiyi.com/$r@http://t7z.cupid.iqiyi.com/*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop.txt@
+!||http://iqiyi.com/$r@http://t7z.cupid.iqiyi.com/*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop.txt@
 ||http://iqiyi.com/baiducdncnc.inter.iqiyi.com/$r@http://iqiyi.com/baiducdncnc.inter.iqiyi.com/*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop-1s.mp4@
 ||http://iqiyi.com/$r@http://static-d.iqiyi.com/lequ/*.mp4@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop-1s.mp4@
 ||http://iqiyi.com/$r@http://baiducdncnc.inter.iqiyi.com/videos/other/*/*/*/*.mp4?*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop-1s.mp4@
 |http://*/baiducdncnc.inter.iqiyi.com/$r@http://*/baiducdncnc.inter.iqiyi.com/videos/other/*/*/*/*.mp4?dis_dz=CNC-*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop-1s.mp4@
 |http://*/baiducdncnc.inter.iqiyi.com/$r@http://*/baiducdncnc.inter.iqiyi.com/videos/other/*/*/*/*.f4v?*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop-1s.f4v@
 ||http://iqiyi.com/$r@http://aliyuncdncnc.inter.iqiyi.com/videos/other/*/*/*/*.mp4?*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop-1s.mp4@
-|http://*/$r@http://*/videos/other/*/*/*/*.mp4?dis_k=*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop-1s.mp4@
+|http://*/$r@http://*/videos/other/*/*/*/*.mp4?dis_k=*&dis_t=*&dis_dz=*-*&dis_st=*&src=iqiyi.com&dis_hit=*&dis_tag=*&uuid=*-*-*&mss=*&rj=*&tfstatus=-*&pv=*&qyid=*&cell=*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop-1s.mp4@
 ||http://iqiyi.com/$r@http://tcqcloudcdncnc.inter.iqiyi.com/videos/other/*/*/*/*.mp4?*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop-1s.mp4@
 ||http://iqiyi.com/$r@http://tcqcloudcdncnc.inter.iqiyi.com/videos/other/*/*/*/*.f4v?*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop-1s.f4v@
 !爱奇艺视频电视客户端
@@ -40,6 +40,7 @@
 |http://*/$r@http://*/baiducdncnc.inter.ptqy.gitv.tv/videos/other/*/*/*/*.f4v?*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop-0.1s.f4v@
 ||http://gitv.tv/$r@http://tcqcloudcdncnc.inter.ptqy.gitv.tv/videos/other/*/*/*/*.f4v?*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop-0.1s.f4v@
 ||http://gitv.tv/$r@http://aliyuncdncnc.inter.ptqy.gitv.tv/videos/other/*/*/*/*.f4v?*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop-0.1s.f4v@
+|http://*/$r@http://*/videos/other/*/*/*/*.f4v?dis_k=*&dis_t=*&dis_dz=*-*&dis_st=*&dis_hit=*&dis_tag=*&uuid=*-*-*&v=*&z=*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop-0.1s.f4v@
 ||http://pic*.ptqy.gitv.tv/image/*/*/*/pv_*.jpg
 @@||http://pic*.inter.ptqy.gitv.tv/image/*/*/*/v_*.jpg?caplist=jpg,webp
 !腾讯视频手机客户端
@@ -57,8 +58,9 @@
 |http://*/$r@http://*/vlive.qqvideo.tc.qq.com/*/*.mp4?vkey=*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop-1s.mp4@
 ||http://qq.com/$r@http://video.dispatch.tc.qq.com/*/*.p201.1.mp4?*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop-1s.mp4@
 !腾讯视频电视客户端
-||http://atianqi.com/$r@http://lives.l.aiseet.atianqi.com/livemsg?*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop.txt@
+!||http://atianqi.com/$r@http://lives.l.aiseet.atianqi.com/livemsg?*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop.txt@
 |http://*/$r@http://*/vmindhls.tc.qq.com/*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop-1s.mp4@
+|http://*/$r@http://*/defaultts.tc.qq.com/*-*-*/*-*-*/*.*.1.ts?index=*&start=*&end=*&brs=*&bre=*&ver=*&token=*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop-1s.ts@
 !芒果tv视频手机客户端
 ||http://mgtv.com/$r@http://pcvideohwyunott.titan.mgtv.com/c1/*/*/*/*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop-1s.mp4@
 ||http://mgtv.com/$r@http://pcvideotx.titan.mgtv.com/c1/*/*/*/*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop-1s.mp4@
