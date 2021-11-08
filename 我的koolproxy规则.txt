@@ -17,7 +17,8 @@
 @@|http://adash.m.taobao.com/rest/sur?ak=
 |http://*/$r@http://*/*/*-*-*-*-*.mp4.ts?sid=*&sign=*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop-1s.ts@
 !爱奇艺视频手机客户端
-||http://iqiyi.com/$r@http://t7z.cupid.iqiyi.com/*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop.txt@
+|http://msg.qy.net/
+|http://t7z.cupid.iqiyi.com/
 |http://msga.cupid.iqiyi.com/scp2.gif
 ||http://iqiyi.com/baiducdncnc.inter.iqiyi.com/$r@http://iqiyi.com/baiducdncnc.inter.iqiyi.com/*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop-1s.mp4@
 ||http://iqiyi.com/$r@http://static-d.iqiyi.com/lequ/*.mp4@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop-1s.mp4@
@@ -29,6 +30,10 @@
 ||http://iqiyi.com/$r@http://tcqcloudcdncnc.inter.iqiyi.com/videos/other/*/*/*/*.mp4?*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop-1s.mp4@
 ||http://iqiyi.com/$r@http://tcqcloudcdncnc.inter.iqiyi.com/videos/other/*/*/*/*.f4v?*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop-1s.f4v@
 !爱奇艺视频电视客户端
+|http://msg.ptqy.gitv.tv/
+|http://stv.ptqy.gitv.tv/
+|http://pb.bi.gitv.tv/
+|http://t7z.cupid.ptqy.gitv.tv/
 ||http://gitv.tv/$r@http://tcqcloudcdncnc.inter.ptqy.gitv.tv/videos/other/*/*/*/*.mp4?*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop-1s.mp4@
 ||http://gitv.tv/$r@http://tcqcloudcdncnc.inter.ptqy.gitv.tv/videos/ots/*/*/*/*.ts?*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop-1s.ts@
 ||http://gitv.tv/$r@http://aliyuncdncnc.inter.ptqy.gitv.tv/videos/ots/*/*/*/*.ts?*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop-1s.ts@
@@ -277,6 +282,7 @@ https://www.speedtest.cn/##.speed-bottom-ads
 https://www.speedtest.cn/##.speed-top-ads
 https://www.speedtest.net/##.pure-u-custom-ad-rectangle u-c
 https://www.speedtest.net/##.pure-u-custom-ad-skyscraper u-c
+https://www.speedtest.net/##.a-container a-container-lowerboard lowerboard
 https://www.speedtest.net/##.top-placeholder
 https://www.youtube.com/###player-ads
 https://www.youtube.com/##.style-scope ytd-display-ad-renderer
