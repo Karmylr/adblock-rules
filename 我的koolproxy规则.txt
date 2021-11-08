@@ -12,6 +12,7 @@
 !||http://cibntv.net/$r@http://valipl.cp31.ott.cibntv.net/*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop.txt@
 |https://video-ad.sm.cn/$r@https://video-ad.sm.cn/*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop.txt@
 !优酷视频电视客户端
+@@||http://ykugc.cp31.ott.cibntv.net.qn302.myalicdn.com/*/*-*-*-*-*.mp4?ccode=*&duration=*&expire=*&psid=*&ups_client_netip=*&ups_ts=*&ups_userid=*&utid=*&vid=*&vkey=*&operate_type=*&bc=*&dst=*&t=*&cug=*&si=*&eo=*&rid=*&type=*&ali_redirect_domain=ykugc.cp31.ott.cibntv.net&ali_redirect_ex_ftag=*&ali_redirect_ex_tmining_ts=*&ali_redirect_ex_tmining_expire=*&ali_redirect_ex_hot=*
 ||http://myalicdn.com/$r@http://ykugc.cp31.ott.cibntv.net.qn302.myalicdn.com/*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop.txt@
 ||http://cibntv.net/$r@http://yk-ssp-ad.cp31.ott.cibntv.net/*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop.txt@
 @@|http://adash.m.taobao.com/rest/sur?ak=
@@ -33,7 +34,7 @@
 |http://msg.ptqy.gitv.tv/
 |http://stv.ptqy.gitv.tv/
 |http://pb.bi.gitv.tv/
-|http://t7z.cupid.ptqy.gitv.tv/
+!|http://t7z.cupid.ptqy.gitv.tv/
 ||http://gitv.tv/$r@http://tcqcloudcdncnc.inter.ptqy.gitv.tv/videos/other/*/*/*/*.mp4?*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop-1s.mp4@
 ||http://gitv.tv/$r@http://tcqcloudcdncnc.inter.ptqy.gitv.tv/videos/ots/*/*/*/*.ts?*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop-1s.ts@
 ||http://gitv.tv/$r@http://aliyuncdncnc.inter.ptqy.gitv.tv/videos/ots/*/*/*/*.ts?*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop-1s.ts@
@@ -81,6 +82,7 @@
 !百度贴吧
 |http://nadvideo2.baidu.com/$r@http://nadvideo2.baidu.com/*.mp4@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop-1s.mp4@
 !网页
+|https://yt3.ggpht.com/
 |https://*.youtube.com/api/stats/watchtime?ns=yt&el=adunit&
 |https://a2put.chinaz.com
 |https://ade.googlesyndication.com/ddm/activity_ext/
@@ -121,7 +123,8 @@
 |https://zhanzhang.toutiao.com/s.gif?
 ||http://adash.m.taobao.com/rest/sur?ak=
 ||http://amazon-adsystem.com/
-||http://nsclick.baidu.com/v.gif?
+|http://nsclick.baidu.com/v.gif?
+|https://nsclick.baidu.com/v.gif?
 ||http://timeserver.cnzz.net/time
 ||https://163.com/*/__utm.gif
 ||https://4399.com/jss/indexcoup.js
@@ -273,6 +276,7 @@
 ||https://zdmimg.com/lg/?banner_id=
 ||https://zdmimg.com/www/delivery/
 ||https://zz.bdstatic.com/linksubmit/push.js$third-party
+|https://dlswbr.baidu.com/heicha/mw/abclite-*.js
 !修饰规则
 https://*.namemc.com/###sticky_wrapper
 https://tieba.baidu.com/###sponsorText
