@@ -21,6 +21,11 @@
 |http://msg.qy.net/
 |http://t7z.cupid.iqiyi.com/
 |http://msga.cupid.iqiyi.com/scp2.gif
+|http://static-s.iqiyi.com/common/*/ADS/*/*/*.jpg?caplist=webp
+||http://iqiyipic.com/image/*/*/*/*.webp
+||http://iqiyipic.com/lequ/*/*.webp
+||http://iqiyipic.com/lequ/*/*.jpg
+|http://*/$r@http://*/videos/other/*/*/*/*.mp4?dis_k=*&dis_t=*&dis_dz=*-*&dis_st=*&src=iqiyi.com&dis_hit=*&dis_tag=*&uuid=*-*-*&qd_uri=dash&qd_ip=*&mss=*&ip=*&rj=*&qd_uid=*&qd_tm=*&ve=*&m=v&dfp=*&qd_tvid=*&qd_p=*&ssl=*&qd_k=*&qd_vip=*&dis_src=vrs&qd_src=*&pv=*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop-1s.mp4@
 ||http://iqiyi.com/baiducdncnc.inter.iqiyi.com/$r@http://iqiyi.com/baiducdncnc.inter.iqiyi.com/*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop-1s.mp4@
 ||http://iqiyi.com/$r@http://static-d.iqiyi.com/lequ/*.mp4@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop-1s.mp4@
 ||http://iqiyi.com/$r@http://baiducdncnc.inter.iqiyi.com/videos/other/*/*/*/*.mp4?*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop-1s.mp4@
@@ -82,7 +87,9 @@
 !百度贴吧
 |http://nadvideo2.baidu.com/$r@http://nadvideo2.baidu.com/*.mp4@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/noop-1s.mp4@
 !网页
-|https://yt3.ggpht.com/
+|https://tpc.googlesyndication.com/pagead/imgad?id=
+@@@@||https://log.mmstat.com/eg.js
+|http://nsclick.baidu.com/v.gif?
 |https://*.youtube.com/api/stats/watchtime?ns=yt&el=adunit&
 |https://a2put.chinaz.com
 |https://ade.googlesyndication.com/ddm/activity_ext/
@@ -92,6 +99,7 @@
 |https://collector.githubapp.com/github/collect
 |https://collector.githubapp.com/github/page_view?
 |https://cse.google.com/adsense/search/async-ads.js
+|https://dlswbr.baidu.com/heicha/mw/abclite-*.js
 |https://e-sentry.coding.net/api/*/store/?sentry_key=
 |https://fex.bdstatic.com/hunter/alog/dp.
 |https://file2.speedtest.cn/images/*.png
@@ -101,6 +109,7 @@
 |https://ipv4.gdt.qq.com/get_client_ip
 |https://mat1.gtimg.com/rain/bl20/json/8.js
 |https://namemc.com/cdn-cgi/bm/cv/
+|https://nsclick.baidu.com/v.gif?
 |https://pgdt.gtimg.cn/*/*/snscosdownload/*
 |https://play.googleapis.com/log*
 |https://res-ga.smzdm.com/gtm.js
@@ -112,6 +121,7 @@
 |https://s.ssl.qhres.com/ssl/ab77b6ea7f3fbf79.js
 |https://s.youtube.com/api/stats/watchtime?adformat
 |https://sbeacon.sina.com.cn/a.gif?
+|https://sealine.youku.com/yk/html?
 |https://stats.g.doubleclick.net/dc.js
 |https://www.googleapis.com/adsmeasurement/*
 |https://www.googleapis.com/affiliation/
@@ -120,11 +130,10 @@
 |https://www.right.com.cn/logo/yyb.png$image
 |https://www.syuu.net/cdn-cgi/apps/head/*
 |https://www.syuu.net/cdn-cgi/bm/cv/*/api.js
+|https://yt3.ggpht.com/
 |https://zhanzhang.toutiao.com/s.gif?
 ||http://adash.m.taobao.com/rest/sur?ak=
 ||http://amazon-adsystem.com/
-|http://nsclick.baidu.com/v.gif?
-|https://nsclick.baidu.com/v.gif?
 ||http://timeserver.cnzz.net/time
 ||https://163.com/*/__utm.gif
 ||https://4399.com/jss/indexcoup.js
@@ -141,7 +150,6 @@
 ||https://api.bilibili.com/x/ad/
 ||https://api.live.bilibili.com/*/Banner
 ||https://app.link/_r?
-||https://cdnst.net/$r@https://b.cdnst.net/javascript/amazon.js@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/amazon_ads.js@
 ||https://baidu.com/*/mwb2.gif?
 ||https://baidu.com/*/tb/img/track.gif?
 ||https://baidu.com/*/v.gif?
@@ -149,6 +157,7 @@
 ||https://baidu.com/billboard/pushlog/
 ||https://baidu.com/dalog/
 ||https://baidu.com/w.gif?
+||https://baidu.com/x.js?
 ||https://bdstatic.com/*/plugins/every_cookie_4644b13.js
 ||https://bdstatic.com/hunter/alog/alog.min.js
 ||https://bdstatic.com/tb/cms/*%e5%ba%95%e9%83%a8
@@ -160,6 +169,7 @@
 ||https://bing.com/fd/ls/lsp.aspx
 ||https://bkrtx.com/
 ||https://casalemedia.com/cygnus?
+||https://cdnst.net/$r@https://b.cdnst.net/javascript/amazon.js@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/koolproxy/AD/amazon_ads.js@
 ||https://cdnst.net/images/ad-
 ||https://cdnst.net/javascript/prebid.
 ||https://chartbeat.com$third-party
@@ -252,8 +262,8 @@
 ||https://sohu.com/pv.js
 ||https://speedtest.cn/api/v2/show?
 ||https://speedtest.cn/assets/images/ce_
-||https://static.cloudflareinsights.com/beacon.min.js
-||https://tpc.googlesyndication.com/simgad/*
+|https://static.cloudflareinsights.com/beacon.min.js
+|https://tpc.googlesyndication.com/simgad/*
 ||https://twitter.com/1.1/jot/client_event.json
 ||https://twitter.com/i/api/1.1/videoads/
 ||https://twitter.com/i/jot
@@ -276,7 +286,6 @@
 ||https://zdmimg.com/lg/?banner_id=
 ||https://zdmimg.com/www/delivery/
 ||https://zz.bdstatic.com/linksubmit/push.js$third-party
-|https://dlswbr.baidu.com/heicha/mw/abclite-*.js
 !修饰规则
 https://*.namemc.com/###sticky_wrapper
 https://tieba.baidu.com/###sponsorText
@@ -284,11 +293,12 @@ https://www.bilibili.com/##.ad-report report-wrap-module report-scroll-module
 https://www.speedtest.cn/##.adsbygoogle
 https://www.speedtest.cn/##.speed-bottom-ads
 https://www.speedtest.cn/##.speed-top-ads
+https://www.speedtest.net/##.a-container a-container-lowerboard lowerboard
 https://www.speedtest.net/##.pure-u-custom-ad-rectangle u-c
 https://www.speedtest.net/##.pure-u-custom-ad-skyscraper u-c
-https://www.speedtest.net/##.a-container a-container-lowerboard lowerboard
 https://www.speedtest.net/##.top-placeholder
+https://www.youtube.com/###masthead-ad
 https://www.youtube.com/###player-ads
 https://www.youtube.com/##.style-scope ytd-display-ad-renderer
 https://www.youtube.com/##.style-scope ytd-rich-grid-renderer
-https://www.youtube.com/###masthead-ad
+https://www.youtube.com/##.video-ads ytp-ad-module
