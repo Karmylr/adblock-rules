@@ -105,6 +105,3 @@
 ||https://71edge.com/$r@https://qcloudcdncnc.inter.71edge.com/videos/other/*/*/*/*.f4v?dis_dz=*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/5.0-/noop-1s.f4v@
 ||https://71edge.com/$r@https://exchang.qnssl.com/bdcdncnc.inter.71edge.com/videos/other/*/*/*/*.f4v?dis_dz=*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/5.0-/noop-1s.f4v@
 ||https://71edge.com/$r@https://alicdncnc.inter.71edge.com/videos/other/*/*/*/*.f4v?dis_dz=*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/5.0-/noop-1s.f4v@
-!bilibili
-||http://bilivideo.com/$r@http://upos-sz-mirrorcoso1.bilivideo.com/upgcxcode/*.m4s?e=*&uipk=*&nbs=*&deadline=*@https://cdn.jsdelivr.net/gh/gorhill/uBlock@master/src/web_accessible_resources/noop-1s.mp4@
-|http://*/$r@http://*/upgcxcode/*.m4s?e=*&uipk=*&nbs=*&deadline=*@https://cdn.jsdelivr.net/gh/gorhill/uBlock@master/src/web_accessible_resources/noop-1s.mp4@
