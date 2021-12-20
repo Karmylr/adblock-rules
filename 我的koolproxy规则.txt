@@ -1,12 +1,12 @@
 !优酷视频手机客户端
 ||http://cibntv.net/$r@http://vali-g1.cp31.ott.cibntv.net/youku/*/*-*-*-*-*.mp4?sid=*@https://cdn.jsdelivr.net/gh/gorhill/uBlock@master/src/web_accessible_resources/noop.txt@
-|http://*/$r@http://*/youku/*/*-*-*-*-*.mp4?sid=*@https://cdn.jsdelivr.net/gh/gorhill/uBlock@master/src/web_accessible_resources/noop-1s.mp4@
-|http://*/$r@http://*/*/*-*-*-*-*.mp4?ccode=*&duration=*&expire=*&psid=*&ups_client_netip=*&ups_ts=*&ups_userid=*&utid=*&vid=*&vkey=*&eo=*&t=*&cug=*&rid=*&type=*&bc=*&dre=*&si=*&dst=*&ykVideoShowType=*&ali_redirect_domain=vali-dns.cp31.ott.cibntv.net&ali_redirect_ex_ftag=*&ali_redirect_ex_tmining_ts=*&ali_redirect_ex_tmining_expire=*&ali_redirect_ex_hot=*@https://cdn.jsdelivr.net/gh/gorhill/uBlock@master/src/web_accessible_resources/noop-1s.mp4@
-||http://cibntv.net/$r@http://vali.cp31.ott.cibntv.net/youku/*/*-*-*-*-*.mp4?sid=*@https://cdn.jsdelivr.net/gh/gorhill/uBlock@master/src/web_accessible_resources/noop-1s.mp4@
-||http://myalicdn.com/$r@http://ykugc.cp31.ott.cibntv.net.qn302.myalicdn.com/*/*-*-*-*-*.mp4?ccode=*&duration=*&expire=*&psid=*&ups_client_netip=*&ups_ts=*&ups_userid=*&utid=*&vid=*&vkey=*&eo=*&t=*&cug=*&rid=*&type=*&bc=*&dre=*&si=*&dst=*&ykVideoShowType=*&ali_redirect_domain=ykugc.cp31.ott.cibntv.net&ali_redirect_ex_ftag=*&ali_redirect_ex_tmining_ts=*&ali_redirect_ex_tmining_expire=*&ali_redirect_ex_hot=*@https://cdn.jsdelivr.net/gh/gorhill/uBlock@master/src/web_accessible_resources/noop-1s.mp4@
-||http://cibntv.net/$r@http://m-vali.cp31.ott.cibntv.net/youku/*@https://cdn.jsdelivr.net/gh/gorhill/uBlock@master/src/web_accessible_resources/noop-1s.mp4@
-||https://sm.cn/$r@https://video-ad.sm.cn/*/*-*-*.mp4?ykVideoShowType=*@https://cdn.jsdelivr.net/gh/gorhill/uBlock@master/src/web_accessible_resources/noop-1s.mp4@
-||http://sm.cn/$r@http://video-ad.sm.cn/*.mp4*@https://cdn.jsdelivr.net/gh/gorhill/uBlock@master/src/web_accessible_resources/noop-1s.mp4@
+|http://*/$r@http://*/youku/*/*-*-*-*-*.mp4?sid=*@https://cdn.jsdelivr.net/gh/gorhill/uBlock@master/src/web_accessible_resources/noop.txt@
+|http://*/$r@http://*/*/*-*-*-*-*.mp4?ccode=*&duration=*&expire=*&psid=*&ups_client_netip=*&ups_ts=*&ups_userid=*&utid=*&vid=*&vkey=*&eo=*&t=*&cug=*&rid=*&type=*&bc=*&dre=*&si=*&dst=*&ykVideoShowType=*&ali_redirect_domain=vali-dns.cp31.ott.cibntv.net&ali_redirect_ex_ftag=*&ali_redirect_ex_tmining_ts=*&ali_redirect_ex_tmining_expire=*&ali_redirect_ex_hot=*@http://192.168.1.1/uBlock-master/src/web_accessible_resources/noop-1s.mp4@
+||http://cibntv.net/$r@http://vali.cp31.ott.cibntv.net/youku/*/*-*-*-*-*.mp4?sid=*@https://cdn.jsdelivr.net/gh/gorhill/uBlock@master/src/web_accessible_resources/noop.txt@
+||http://myalicdn.com/$r@http://ykugc.cp31.ott.cibntv.net.qn302.myalicdn.com/*/*-*-*-*-*.mp4?ccode=*&duration=*&expire=*&psid=*&ups_client_netip=*&ups_ts=*&ups_userid=*&utid=*&vid=*&vkey=*&eo=*&t=*&cug=*&rid=*&type=*&bc=*&dre=*&si=*&dst=*&ykVideoShowType=*&ali_redirect_domain=ykugc.cp31.ott.cibntv.net&ali_redirect_ex_ftag=*&ali_redirect_ex_tmining_ts=*&ali_redirect_ex_tmining_expire=*&ali_redirect_ex_hot=*@http://192.168.1.1/uBlock-master/src/web_accessible_resources/noop-1s.mp4@
+||http://cibntv.net/$r@http://m-vali.cp31.ott.cibntv.net/youku/*@http://192.168.1.1/uBlock-master/src/web_accessible_resources/noop-1s.mp4@
+||https://sm.cn/$r@https://video-ad.sm.cn/*/*-*-*.mp4?ykVideoShowType=*@http://192.168.1.1/uBlock-master/src/web_accessible_resources/noop-1s.mp4@
+||http://sm.cn/$r@http://video-ad.sm.cn/*.mp4*@http://192.168.1.1/uBlock-master/src/web_accessible_resources/noop-1s.mp4@
 !优酷视频电视客户端
 |http://cpro.baidustatic.com/
 |http://a1.qdzyspjx.com/*.js
@@ -16,7 +16,6 @@
 ||http://cibntv.net/$r@http://ykugc.cp31.ott.cibntv.net/*/*-*-*-*-*.mp4.ts?sid=*@http://192.168.1.1/my%20kp/KP-_fuck.ts@
 |http://*/$r@http://*/*/*-*-*-*-*.mp4.ts?sid=*&sign=*@http://192.168.1.1/my%20kp/KP-_fuck.ts@
 !爱奇艺视频手机客户端
-!图片广告:
 |http://p*-ad-sign.byteimg.com/ad-app-package/
 !|http://pic*.iqiyipic.com/image/*/*/*/*.jpg?caplist=webp%2Cjpg
 |http://static-s.iqiyi.com/common/*/ADS/*/*/*.jpg?caplist=webp
@@ -99,6 +98,7 @@
 !芒果TV手机客户端
 ||https://mgtv.com/$r@https://video.da.mgtv.com/new_video/*/*/*/*/*.mp4*@http://192.168.1.1/uBlock-master/src/web_accessible_resources/noop-1s.mp4@
 !芒果TV电视客户端
+|http://mobaliyun.res.mgtv.com/mediafiles/wiad_creative/*/*.jpg
 ||http://mgtv.com/$r@http://mobaliyun.res.mgtv.com/new_video/*/*/*/*/*.mp4@http://192.168.1.1/uBlock-master/src/web_accessible_resources/noop-1s.mp4@
 !爱奇艺网页端
 ||https://71edge.com/$r@https://qcloudcdncnc.inter.71edge.com/videos/other/*/*/*/*.f4v?dis_dz=*@http://192.168.1.1/my%20kp/noop-1s.f4v@
@@ -110,6 +110,9 @@
 !||http://bilivideo.com/$r@http://upos-sz-mirrorcoso1.bilivideo.com/upgcxcode/*/*/*/*-1-*.m4s?e=*&uipk=5&nbs=1&deadline=*&gen=playurlv2&os=coso1bv&oi=*&trid=*&platform=android&upsig=*&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=*&bvc=vod&nettype=1&orderid=0,2&bw=*&logo=*@http://192.168.1.1/uBlock-master/src/web_accessible_resources/noop-1s.mp4@
 !||http://bilivideo.com/$r@http://upos-sz-mirrorkodoo1.bilivideo.com/upgcxcode/*/*/*/*-1-*.m4s?e=*&uipk=5&nbs=1&deadline=*&gen=playurlv2&os=kodoo1bv&oi=*&trid=*&platform=android&upsig=*&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=*&bvc=vod&nettype=1&orderid=0,2&bw=*&logo=*@http://192.168.1.1/uBlock-master/src/web_accessible_resources/noop-1s.mp4@
 !网页规则
+||https://baidu.com/api/wikiui/directad?
+||https://woozooo.com/img/hm.js
+||https://v1.cnzz.com/
 ||https://huigun.top/
 ||http://adash.m.taobao.com/rest/sur?ak=
 ||http://amazon-adsystem.com/
@@ -130,7 +133,7 @@
 ||https://ad.gt/
 ||https://ade.googlesyndication.com/ddm/activity_ext/
 ||https://adm.leju.com/get_ad_
-||https://ads-api.twitter.com
+||https://ads-api.twitter.com/
 ||https://ads-pixiv.net^$third-party
 ||https://adsafeprotected.com/
 ||https://adservice.google.com/
@@ -168,7 +171,7 @@
 ||https://baidu.com/w.gif?
 ||https://baidu.com/w.gif?
 ||https://baidu.com/x.js?
-||https://baike.baidu.com/api/common/bkclick?
+||https://baidu.com/api/common/bkclick?
 ||https://bdstatic.com/*/data/
 ||https://bdstatic.com/*/plugins/every_cookie_4644b13.js
 ||https://bdstatic.com/*/res/r/image/*/*.jpg
@@ -257,7 +260,7 @@
 ||https://fourier.taobao.com/
 ||https://fundingchoicesmessages.google.com$third-party
 ||https://gdt.qq.com/
-||https://gia.jd.com^
+||https://gia.jd.com/
 ||https://github.com/_private/browser/stats
 ||https://github.githubassets.com/assets/optimizely-
 ||https://google-analytics.com/$r@https://*.google-analytics.com/analytics.js@http://192.168.1.1/uBlock-master/src/web_accessible_resources/google-analytics_analytics.js@
@@ -288,7 +291,8 @@
 ||https://googletagmanager.com/gtag/$third-party
 ||https://googletagservices.com/$r@https://www.googletagservices.com/tag/js/gpt.js@http://192.168.1.1/uBlock-master/src/web_accessible_resources/googletagservices_gpt.js@
 ||https://googleusercontent.com/proxy/
-||https://googlevideo.com/$r@https://*.googlevideo.com/videoplayback?expire=*&ei=*&ip=*&id=*-*&itag=*&aitags=*&source=youtube&requiressl=yes&ctier=L&vprv=1&mime=video%2Fwebm&ns=*&gir=yes&clen=*&dur=6.005&lmt=*&keepalive=yes&fexp=*,*&c=WEB&txp=*&n=*&sparams=expire*@http://192.168.1.1/uBlock-master/src/web_accessible_resources/noop-1s.mp4@
+||https://googlevideo.com/$r@https://*.googlevideo.com/videoplayback?expire=*&ei=*&ip=*&id=*&itag=*&source=youtube&requiressl=yes&ctier=L*@http://192.168.1.1/uBlock-master/src/web_accessible_resources/noop-1s.mp4@
+||https://googlevideo.com/$r@https://*.googlevideo.com/videoplayback?expire=*&ei=*&ip=*&id=*&itag=*&aitags=*&source=youtube&requiressl=yes&ctier=L*@http://192.168.1.1/uBlock-master/src/web_accessible_resources/noop-1s.mp4@
 ||https://googlevideo.com/generate_204$image
 ||https://googlevideo.com/ptracking?pltype=adhost
 ||https://googlevideo.com/videogoodput?
@@ -390,7 +394,6 @@
 ||https://sina.com.cn/js/792/*head*.js
 ||https://sina.com.cn/js/iframe/ad/
 ||https://sina.com.cn/litong/
-||https://sinaimg.cn/unipro/
 ||https://sinaimg.cn/unipro/
 ||https://sinajs.cn/open/analytics/
 ||https://smtcdns.com/$r@https://apd-*.v.smtcdns.com/vlive.qqvideo.tc.qq.com/*-*/*.p201.1.mp4?platform=*@http://192.168.1.1/uBlock-master/src/web_accessible_resources/noop-1s.mp4@
