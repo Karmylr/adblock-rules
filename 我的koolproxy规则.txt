@@ -1,8 +1,8 @@
 !优酷视频手机客户端
 ||http://cibntv.net/$r@http://vali-g1.cp31.ott.cibntv.net/youku/*/*-*-*-*-*.mp4?sid=*@https://raw.githubusercontent.com/gorhill/uBlock/master/src/web_accessible_resources/noop.txt@
-|http://*/$r@http://*/youku/*/*-*-*-*-*.mp4?sid=*@https://cdn.jsdelivr.net/gh/gorhill/uBlock@master/src/web_accessible_resources/noop-1s.mp4@
+|http://*/$r@http://*/youku/*/*-*-*-*-*.mp4?sid=*@https://raw.githubusercontent.com/gorhill/uBlock/master/src/web_accessible_resources/noop-1s.mp4@
 |http://*/$r@http://*/*/*-*-*-*-*.mp4?ccode=*&duration=*&expire=*&psid=*&ups_client_netip=*&ups_ts=*&ups_userid=*&utid=*&vid=*&vkey=*&eo=*&t=*&cug=*&rid=*&type=*&bc=*&dre=*&si=*&dst=*&ykVideoShowType=*&ali_redirect_domain=vali-dns.cp31.ott.cibntv.net&ali_redirect_ex_ftag=*&ali_redirect_ex_tmining_ts=*&ali_redirect_ex_tmining_expire=*&ali_redirect_ex_hot=*@https://raw.githubusercontent.com/gorhill/uBlock/master/src/web_accessible_resources/noop-1s.mp4@
-||http://cibntv.net/$r@http://vali.cp31.ott.cibntv.net/youku/*/*-*-*-*-*.mp4?sid=*@https://cdn.jsdelivr.net/gh/gorhill/uBlock@master/src/web_accessible_resources/noop-1s.mp4@
+||http://cibntv.net/$r@http://vali.cp31.ott.cibntv.net/youku/*/*-*-*-*-*.mp4?sid=*@https://raw.githubusercontent.com/gorhill/uBlock/master/src/web_accessible_resources/noop-1s.mp4@
 ||http://myalicdn.com/$r@http://ykugc.cp31.ott.cibntv.net.qn302.myalicdn.com/*/*-*-*-*-*.mp4?ccode=*&duration=*&expire=*&psid=*&ups_client_netip=*&ups_ts=*&ups_userid=*&utid=*&vid=*&vkey=*&eo=*&t=*&cug=*&rid=*&type=*&bc=*&dre=*&si=*&dst=*&ykVideoShowType=*&ali_redirect_domain=ykugc.cp31.ott.cibntv.net&ali_redirect_ex_ftag=*&ali_redirect_ex_tmining_ts=*&ali_redirect_ex_tmining_expire=*&ali_redirect_ex_hot=*@https://raw.githubusercontent.com/gorhill/uBlock/master/src/web_accessible_resources/noop-1s.mp4@
 ||http://cibntv.net/$r@http://m-vali.cp31.ott.cibntv.net/youku/*@https://raw.githubusercontent.com/gorhill/uBlock/master/src/web_accessible_resources/noop-1s.mp4@
 ||https://sm.cn/$r@https://video-ad.sm.cn/*/*-*-*.mp4?ykVideoShowType=*@https://raw.githubusercontent.com/gorhill/uBlock/master/src/web_accessible_resources/noop-1s.mp4@
