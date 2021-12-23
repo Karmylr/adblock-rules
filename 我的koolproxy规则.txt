@@ -23,7 +23,7 @@
 ||http://iqiyipic.com/image/*/*/*/pv_*_em_*.jpg?caplist=webp%2Cjpg
 |http://msg.video.qiyi.com/
 |http://t7z.cupid.iqiyi.com/$r@100086@100141@
-||http://qy.net/$r@http://msg.qy.net/*@https://cdn.jsdelivr.net/gh/gorhill/uBlock@master/src/web_accessible_resources/noop.txt@
+|http://msg.qy.net
 |http://msga.cupid.iqiyi.com/scp2.gif
 ||http://iqiyi.com/$r@http://static-d.iqiyi.com/lequ/*.mp4@https://cdn.jsdelivr.net/gh/gorhill/uBlock@master/src/web_accessible_resources/noop-1s.mp4@
 ||http://iqiyi.com/$r@http://tcqcloudcdncnc.inter.iqiyi.com/videos/other/*/*/*/*.mp4?dis_dz=*@https://cdn.jsdelivr.net/gh/gorhill/uBlock@master/src/web_accessible_resources/noop-1s.mp4@
@@ -36,10 +36,10 @@
 |http://mixer.cupid.ptqy.gitv.tv/mixer?a=tv_$s@"adSlots":[{"ads":@"adSlots":[{"":@
 |http://mixer.cupid.ptqy.gitv.tv/mixer?a=tv_$s@"i":"qc_100001_100???",@"i":"qc_100001_100141",@
 |http://mixer.cupid.ptqy.gitv.tv/mixer?a=*=qc_100001_
-||http://gitv.tv/$r@http://stv.ptqy.gitv.tv/*@https://cdn.jsdelivr.net/gh/gorhill/uBlock@master/src/web_accessible_resources/noop.txt@
-||http://gitv.tv/$r@http://msg.ptqy.gitv.tv/*@https://cdn.jsdelivr.net/gh/gorhill/uBlock@master/src/web_accessible_resources/noop.txt@
-||http://gitv.tv/$r@http://pb.bi.gitv.tv/*@https://cdn.jsdelivr.net/gh/gorhill/uBlock@master/src/web_accessible_resources/noop.txt@
-||http://gitv.tv/$r@http://t7z.cupid.ptqy.gitv.tv/*@https://cdn.jsdelivr.net/gh/gorhill/uBlock@master/src/web_accessible_resources/noop.txt@
+|http://stv.ptqy.gitv.tv
+|http://msg.ptqy.gitv.tv
+|http://pb.bi.gitv.tv
+|http://t7z.cupid.ptqy.gitv.tv
 |http://*/$r@http://*/videos/other/*/*/*/*.f4v?dis_k=*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/cdn/noop-1s.f4v@
 ||http://gitv.tv/$r@http://tcqcloudcdncnc.inter.ptqy.gitv.tv/videos/ots/*/*/*/*.ts?dis_dz=*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/cdn/KP-_fuck.ts@
 |http://*/$r@http://*/baiducdncnc.inter.ptqy.gitv.tv/videos/ots/*/*/*/*.ts?dis_dz=*@https://cdn.jsdelivr.net/gh/Karmylr/public-cdn@main/cdn/KP-_fuck.ts@
@@ -1440,6 +1440,10 @@
 ||https://zz.bdstatic.com/linksubmit/push.js$third-party
 ||​https://dlswbr.baidu.com^
 !修饰规则
+||http://router.houzi-blog.top/##.img
+||https://amazon.com/###nav-swmslot
+||https://amazon.com/###sponsoredProducts2_feature_div
+||https://amazon.com/##.reviews-display-ad
 ||https://baidu.com###bottom_layer
 ||https://baidu.com###bottom_space
 ||https://baidu.com###s-top-left
@@ -1450,10 +1454,6 @@
 ||https://baidu.com/###content_right
 ||https://baidu.com/###sponsorText
 ||https://baidu.com/##.under-tips
-||http://router.houzi-blog.top/##.img
-||https://amazon.com/###nav-swmslot
-||https://amazon.com/###sponsoredProducts2_feature_div
-||https://amazon.com/##.reviews-display-ad
 ||https://bbc.com/##.advert--leaderboard
 ||https://bbc.com/##.advert--mpu
 ||https://bbc.com/##.bbccom_advert
