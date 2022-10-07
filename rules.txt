@@ -86,4 +86,4 @@ bilibili.com###right-bottom-banner
 ||zndsssp.dangbei.net/jing/516980x60f5.gif
 wzfou.com###custom_html-2
 rigorousthemes.com###right-sidebar
-businessinsider.com.has-video-ad
+businessinsider.com##.has-video-ad
