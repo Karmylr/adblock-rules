@@ -1,3 +1,8 @@
+!csdn
+||csdn.net^$removeparam=spm
+www.csdn.net##.www-home-content:has(.ad_fullWidth)
+www.csdn.net##.advertisement
+
 !gamersky
 gamersky.com##[id^="adscontainer"]
 gamersky.com##.advert
