@@ -1,14 +1,21 @@
+[AdBlock Plus 2.0]
+
+!fix blank space issue left by adblock.
+
 !csdn
 ||csdn.net^$removeparam=spm
 www.csdn.net##.www-home-content:has(.ad_fullWidth)
 www.csdn.net##.advertisement
+
+!Mozilla
+mozilla.org##.mzp-l-content
 
 !gamersky
 gamersky.com##[id^="adscontainer"]
 gamersky.com##.advert
 gamersky.com##.bgAdWrap
 
-!4399的easylistchina不收录的广告元素规则
+!4399
 4399.com###ads1_1
 
 !c语言中文网
