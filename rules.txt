@@ -87,3 +87,4 @@ bilibili.com###right-bottom-banner
 wzfou.com###custom_html-2
 rigorousthemes.com###right-sidebar
 businessinsider.com##.has-video-ad
+pdai.tech##div[style="text-align:center;"]:has(.adsbygoogle)
