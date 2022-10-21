@@ -1,41 +1,42 @@
 [AdBlock Plus 2.0]
-
+!
 !fix blank space issue left by adblock.
-
+!
 !csdn
 ||csdn.net^$removeparam=spm
 www.csdn.net##.www-home-content:has(.ad_fullWidth)
 www.csdn.net##.advertisement
-
+!
 !Mozilla
 mozilla.org##.mzp-l-content
-
+!
 !gamersky
 gamersky.com##[id^="adscontainer"]
 gamersky.com##.advert
 gamersky.com##.bgAdWrap
-
+!
 !4399
 4399.com###ads1_1
-
+!
 !c语言中文网
 biancheng.net###top-banner
 biancheng.net##.ggxc-box
-
+!
 !哔哩哔哩
 bilibili.com#%#//scriptlet('nowebrtc')
-www.bilibili.com#%#//scriptlet('set-constant', 'window.__pinia.feed.data.ad', 'emptyArr')
-www.bilibili.com#%#//scriptlet('set-constant', 'window.__pinia.feed.data.head.ad', 'emptyArr')
+bilibili.com#%#//scriptlet('set-constant', 'window.__pinia.feed.data.ad', 'emptyArr')
+bilibili.com#%#//scriptlet('set-constant', 'window.__pinia.feed.data.head.ad', 'emptyArr')
 bilibili.com##.adblock-tips
-www.bilibili.com#?#.recommended-card:has(a[href^="//cm.bilibili.com/"])
-www.bilibili.com#?#.bili-video-card.is-rcmd:has(a[href^="//cm.bilibili.com/"])
-
+bilibili.com#?#.recommended-card:has(a[href^="//cm.bilibili.com/"])
+bilibili.com#?#.bili-video-card.is-rcmd:has(a[href^="//cm.bilibili.com/"])
+bilibili.com#?#.business-card:has(a[href^="//cm.bilibili.com/"])
+!
 !站长之家
 chinaz.com###navAfter
 chinaz.com##.topTsCenter
 chinaz.com##.wrapperTopBtm.mt10.bg-gray02
 chinaz.com##.wrapperTopBtm:has(#centerTxt)
-
+!
 !cnbeta
 cnbeta.com##.cate-help
 cnbeta.com##.cnbeta-article-body>.tac
@@ -44,7 +45,7 @@ cnbeta.com##.main-wrap>.cnbeta-article-wrapper>.w1200
 cnbeta.com##.topContent>.w1200.pt5
 !cnbeta首页剩余广告元素
 cnbeta.com##.topContent+.w1200
-
+!
 cnn.com##div[data-bundle="adzones"]
 csdn.net###kp_box_www_swiper
 csdn.net##.el-carousel--horizontal
@@ -100,3 +101,4 @@ wzfou.com###custom_html-2
 rigorousthemes.com###right-sidebar
 businessinsider.com##.has-video-ad
 pdai.tech##div[style="text-align:center;"]:has(.adsbygoogle)
+w3cschool.cn##.abox-content
