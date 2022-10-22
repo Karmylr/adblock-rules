@@ -5,6 +5,7 @@
 !sohu
 sohu.com#?#.list16>ul:has(a[href^="https://cpro.baidu.com/cpro/ui/"])
 sohu.com##.godR+.extend-mod
+sohu.com#?#.sidebar.right:has(.extend-mod.bordR:has(div[data-role="god_promotion"]))
 !
 !csdn
 ||csdn.net^$removeparam=spm
