@@ -2,6 +2,10 @@
 !
 !fix blank space issue left by adblock.
 !
+!sohu
+sohu.com#?#.list16>ul:has(a[href^="https://cpro.baidu.com/cpro/ui/"])
+sohu.com##.godR+.extend-mod
+!
 !csdn
 ||csdn.net^$removeparam=spm
 www.csdn.net##.www-home-content:has(.ad_fullWidth)
@@ -102,3 +106,7 @@ rigorousthemes.com###right-sidebar
 businessinsider.com##.has-video-ad
 pdai.tech##div[style="text-align:center;"]:has(.adsbygoogle)
 w3cschool.cn##.abox-content
+laoda.de##.joe_aside__item.advert
+laoda.de##.joe_advert-large
+51cto.com##.ad-navtop
+51cto.com##.advert
