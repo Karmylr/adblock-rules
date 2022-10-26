@@ -111,3 +111,14 @@ laoda.de##.joe_aside__item.advert
 laoda.de##.joe_advert-large
 51cto.com##.ad-navtop
 51cto.com##.advert
+tazkranet.com###block-14
+tazkranet.com##.post-title-adze
+opssh.cn##.list-banner
+xiaoyuanjiu.com#?#.f-gray+div:has(iframe[src^="//bd.xiaoyuanjiu.com/"])
+xiaoyuanjiu.com##.da-box.mb20
+xiaoyuanjiu.com#?#.pc:has(.adsbygoogle)
+luckydesigner.space##.addkillcont
+luckydesigner.space#?#.lucky-widget:has(.adsbygoogle)
+luckydesigner.space##.lucky-content
+snlcw.com##a[href^="https://polr.snlcw.com/"]
+snlcw.com##.g2.mt10.clearfix
