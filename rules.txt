@@ -1,5 +1,3 @@
-[AdBlock Plus 2.0]
-!
 !fix blank space issue left by adblock.
 !
 !sohu
@@ -8,7 +6,6 @@ sohu.com##.godR+.extend-mod
 sohu.com#?#.sidebar.right:has(.extend-mod.bordR:has(div[data-role="god_promotion"]))
 !
 !csdn
-||csdn.net^$removeparam=spm
 www.csdn.net##.www-home-content:has(.ad_fullWidth),.advertisement
 !
 !Mozilla
@@ -28,10 +25,10 @@ bilibili.com#%#//scriptlet('nowebrtc')
 bilibili.com#%#//scriptlet('set-constant', 'window.__pinia.feed.data.ad', 'emptyArr')
 bilibili.com#%#//scriptlet('set-constant', 'window.__pinia.feed.data.head.ad', 'emptyArr')
 bilibili.com##.adblock-tips,#right-bottom-banner
-||bilibili.com^$removeparam=vd_source
 bilibili.com#?#.recommended-card:has(a[href^="//cm.bilibili.com/"])
 bilibili.com#?#.bili-video-card.is-rcmd:has(a[href^="//cm.bilibili.com/"])
 bilibili.com#?#.business-card:has(a[href^="//cm.bilibili.com/"])
+bilibili.com#?#.eva-extension-feed-body>div:has(a[href^="//cm.bilibili.com/"])
 !
 !站长之家
 chinaz.com###navAfter,.wrapperTopBtm:has(#centerTxt),.topTsCenter,.wrapperTopBtm.mt10.bg-gray02
