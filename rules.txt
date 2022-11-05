@@ -97,3 +97,4 @@ w37fhy.com##.widget_custom_html
 ubunlog.com##.sidebar.widget-area
 duonaovod.com##.pannel.clearfix:has(.ads)
 openspeedtest.com###rightArea,#top-lb
+myfreax.com#?#.site-main>div:has(.adsbygoogle)
