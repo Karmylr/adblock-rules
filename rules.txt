@@ -94,3 +94,6 @@ uukanshu.com##.dirAd,div[style="text-align:center; width:1000px; margin:60px aut
 csdn.net##.programmer1Box
 zerotier.com###zerotier-cookie-consent-banner
 w37fhy.com##.widget_custom_html
+ubunlog.com##.sidebar.widget-area
+duonaovod.com##.pannel.clearfix:has(.ads)
+openspeedtest.com###rightArea,#top-lb
