@@ -80,12 +80,15 @@ speedtest.cn##.container:has(.sponsor)
 speedtest.cn##.index-advertising,.speed-twoads-wrap,body>#container>.pre-fold>.main-content>.main>.container>.pure-g>.pure-u-custom-ad-skyscraper.u-c
 stheadline.com##.cookieConsentContainer
 taobao.com#?#.grid-right:has(#J_shopkeeper)
-tazkranet.com###block-14,.post-title-adze
+tazkranet.com###block-14
+tazkranet.com##.post-title-adze
 tieba.baidu.com###plat_recom_carousel
 ttsp.tv##.play_list_adbox
 tutorialspoint.com###google-right-ads
 ubunlog.com##.sidebar.widget-area
-uukanshu.com##.dirAd,div[style="text-align:center; width:1000px; margin:60px auto 20px auto"],.fixedad
+uukanshu.com##.dirAd
+uukanshu.com##div[style="text-align:center; width:1000px; margin:60px auto 20px auto"]
+uukanshu.com##.fixedad
 w37fhy.com##.widget_custom_html
 w3cschool.cn##.abox-content
 w3school.com.cn###sidebar_zzs
@@ -98,3 +101,4 @@ zditect.com#?#.col-md-6:has(.adsbyvli)
 zditect.com##.col-md-9
 zerotier.com###zerotier-cookie-consent-banner
 zhhbqg.com##[href^="https://hh.zhhbqg.com/"],[href^="https://gg.zhhbqg.com/"],[href^="https://www.hjd0mw.cc/"],[href^="https://www.hjx908.cc/"],[href^="https://www.hjdqhv.cc/"]
+segmentfault.com#?#.sticky-outer-wrapper:has(#first-ad)
