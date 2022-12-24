@@ -1,4 +1,5 @@
 !fix blank space issue left by adblock.
+casper.tw#?#.justify-content-center>.d-lg-block:has(.adsbygoogle)
 ||biancheng.net/templets/new/images/index_pc/fudaoban_pc.png
 ||biancheng.net/templets/new/images/index_pc/fudaoban_wap.png
 ||hdslb.com/bfs/sycp/creative_img/*.jpg
@@ -58,7 +59,6 @@ m.nbyy.tv###bg_cover
 m.nbyy.tv###copytoshareAlert>div.qy-header-warn-alert>div.fixed-box
 m.zhhbqg.com###appss
 m.zhhbqg.com##div[style="text-align: center; margin: 40px 0; color: blue; font-size: larger;"],div[style="width:100%;display:block;background: #25294b;margin-top: 10px;"]
-mozilla.org##.mzp-l-content
 myfreax.com#?#.site-main>div:has(.adsbygoogle)
 namemc.com#?#.container:has(#lb1_wrapper)
 onlineocr.net##.col-xl-3
@@ -102,3 +102,5 @@ zditect.com##.col-md-9
 zerotier.com###zerotier-cookie-consent-banner
 zhhbqg.com##[href^="https://hh.zhhbqg.com/"],[href^="https://gg.zhhbqg.com/"],[href^="https://www.hjd0mw.cc/"],[href^="https://www.hjx908.cc/"],[href^="https://www.hjdqhv.cc/"]
 segmentfault.com#?#.sticky-outer-wrapper:has(#first-ad)
+bqzhh.com##.h_submenucon
+search.bilibili.com#?#.video-list>.col_3:has(a[href^="//cm.bilibili.com/"])
