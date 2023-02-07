@@ -5,6 +5,7 @@ casper.tw#?#.justify-content-center>.d-lg-block:has(.adsbygoogle)
 51cto.com##.advert
 biancheng.net##.ggxc-box
 biancheng.net###top-banner
+bilibili.com#?#.feed-card:has(a[href^="//cm.bilibili.com"])
 bilibili.com#?#.bili-video-card.is-rcmd:has(a[href^="//cm.bilibili.com/"])
 bilibili.com#?#.business-card:has(a[href^="//cm.bilibili.com/"])
 bilibili.com#?#.eva-extension-feed-body>div:has(a[href^="//cm.bilibili.com/"])
