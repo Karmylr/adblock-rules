@@ -1,4 +1,7 @@
-!fix blank space issue left by adblock.
+ikandy.fun#%#//scriptlet('set-constant', 'layer.open', 'undefined')
+||right.com.cn/logo/dxn.gif
+ikandy.fun##div[style="position: fixed;top: 60px;right:0;z-index:999;width:250px"]
+live.bilibili.com#%#//scriptlet('nowebrtc')
 casper.tw#?#.justify-content-center>.d-lg-block:has(.adsbygoogle)
 4399.com###ads1_1
 51cto.com##.ad-navtop
