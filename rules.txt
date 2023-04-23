@@ -1,5 +1,5 @@
-ikandy.fun#%#//scriptlet('set-constant', 'layer.open', 'undefined')
-||right.com.cn/logo/dxn.gif
+www.bilibili.com#?#.feed-card:has(.bili-video-card__info--ad)
+dy.xdf.cn##.ad2 
 ikandy.fun##div[style="position: fixed;top: 60px;right:0;z-index:999;width:250px"]
 live.bilibili.com#%#//scriptlet('nowebrtc')
 casper.tw#?#.justify-content-center>.d-lg-block:has(.adsbygoogle)
