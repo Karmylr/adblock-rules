@@ -1,17 +1,9 @@
-bilibili.com#?#.feed-card:has(.bili-video-card__info--ad)
-dy.xdf.cn##.ad2 
 live.bilibili.com#%#//scriptlet('nowebrtc')
 casper.tw#?#.justify-content-center>.d-lg-block:has(.adsbygoogle)
 51cto.com##.ad-navtop
 51cto.com##.advert
 biancheng.net##.ggxc-box
 biancheng.net###top-banner
-bilibili.com#?#.feed-card:has(a[href^="//cm.bilibili.com"])
-bilibili.com#?#.bili-video-card.is-rcmd:has(a[href^="//cm.bilibili.com/"])
-bilibili.com#?#.business-card:has(a[href^="//cm.bilibili.com/"])
-bilibili.com#?#.eva-extension-feed-body>div:has(a[href^="//cm.bilibili.com/"])
-bilibili.com#?#.recommended-card:has(a[href^="//cm.bilibili.com/"])
-bilibili.com##.adblock-tips
 bilibili.com###right-bottom-banner
 businessinsider.com##.has-video-ad
 centphp.com##.cent_ad
@@ -60,8 +52,6 @@ onlineocr.net##.col-xl-3
 openspeedtest.com###rightArea,#top-lb
 opssh.cn##.list-banner
 pdai.tech#?#div[style="text-align:center;"]:has(.adsbygoogle)
-qidian.com##.focus-img
-right.com.cn#?#h2:has(a[href^="https://url.oray.com/"])
 right.com.cn#?#li:has(a[href^="https://jd.dangbei.com/"])
 rigorousthemes.com###right-sidebar
 sina.com.tw##.sideRight
