@@ -4,7 +4,7 @@ casper.tw#?#.justify-content-center>.d-lg-block:has(.adsbygoogle)
 51cto.com##.advert
 biancheng.net##.ggxc-box
 biancheng.net###top-banner
-bilibili.com###right-bottom-banner
+bilibili.com###right-bottom-banner,.video-card-ad-small
 businessinsider.com##.has-video-ad
 centphp.com##.cent_ad
 chinaz.com#?#.wrapperTopBtm:has(#centerTxt)
